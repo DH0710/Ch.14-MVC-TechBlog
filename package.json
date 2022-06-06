@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/DH0710/Ch.14-MVC-TechBlog#readme",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "express": "^4.18.1"
   }
 }
